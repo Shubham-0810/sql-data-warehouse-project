@@ -1,3 +1,13 @@
+/*
+========================================================
+DDL Script: bronze_schema.sql
+Database: bronze
+Purpose: Defines the schema for the Bronze layer of the data warehouse.
+         Drops existing tables and creates fresh table structures.
+========================================================
+*/
+
+
 USE bronze;
 
 DROP TABLE IF EXISTS crm_cust_info;
