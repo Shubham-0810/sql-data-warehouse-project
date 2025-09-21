@@ -1,5 +1,5 @@
 -- ==========================================================
--- Script: silver_schema.sql
+-- Script: ddl_silver.sql
 -- Purpose: Defines the schema for tables in the SILVER layer 
 --          of the data warehouse. 
 --          SILVER stores cleaned, standardized, and enriched 
